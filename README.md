@@ -46,8 +46,8 @@
 Выполните загрузку через `git clone`:
 ```bash
 apt update && apt install git -y
-git clone https://github.com/islomtt/demos
-cd demos
+git clone https://github.com/nonett/demo
+cd demo
 chmod +x iti1.sh
 
 ```
